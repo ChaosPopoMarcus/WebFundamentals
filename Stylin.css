@@ -1,0 +1,7 @@
+/*Stylin.css*/
+img {
+	border-radius: 250px;
+}
+table, th, td {
+	border: 3px solid red;
+}
