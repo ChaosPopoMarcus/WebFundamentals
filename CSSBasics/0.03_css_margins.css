@@ -1,0 +1,21 @@
+#container {
+	background-color: blue;
+	display: inline-block;
+	width: 400px;
+	height: 400px;
+
+}
+#contents {
+	background-color: green;
+	display: inline-block;
+	width: 320px;
+	height: 320px;
+	margin: 40px;
+
+}#other {
+	border: 1px solid black;
+	margin: 100px 40px 50px 200px;
+	background-color: lightblue;
+	padding: 40px;
+
+}
