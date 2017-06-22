@@ -58,6 +58,13 @@
 	left:46px;
 }
 .lefteye {
+	width: 200px;
+	height: 100px;
+	background: orange;
+	border: 3px solid black;
+	
+
+
 
 }
 .righteye {
